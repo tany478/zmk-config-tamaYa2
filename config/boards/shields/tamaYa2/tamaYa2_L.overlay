@@ -1,4 +1,4 @@
-#include "tamaYa.dtsi"
+#include "tamaYa2.dtsi"
 
 &kscan0 {
         col-gpios
